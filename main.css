@@ -2,3 +2,40 @@ table td {
     padding: 20px;
     border: 1px solid black;
 }
+div{
+    float: left;
+}
+.h1SizePlus100{
+    font-size: 200%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.topSection{
+    height: 50px;
+    width: 100%; 
+    background: linear-gradient(90deg, rgba(37,247,176,1) 0%, rgba(37,247,247,1) 50%, rgba(37,247,105,1) 100%);
+    text-align: center ;
+    color: #25B5F7;    
+}
+.SecondSectionLeft{    
+    background: linear-gradient(90deg, rgba(37,247,176,1) 0%, rgba(37,247,247,1) 100%, rgba(37,247,105,1) 100%);
+    width: 50%;
+    float: left;
+
+}
+.aButtonReady{
+    padding-top: 50%;
+    padding-left: 25%;
+    float: left;
+}
+.imgPrizeButton{
+    height: 150px;
+    width: 150px;
+}
+.SecondSectionRight{   
+    background: linear-gradient(90deg, rgba(37,247,176,1) 0%, rgba(37,247,247,1) 0%, rgba(37,247,105,1) 100%);
+    width: 50%;
+    float: right;
+}
